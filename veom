@@ -1,0 +1,418 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="description" content="" /> 
+  <link rel="canonical" href="https://www.veominfotech.com/" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.rtl.min.css" integrity="sha384-T5m5WERuXcjgzF8DAb7tRkByEZQGcpraRTinjpywg37AO96WoYN9+hrhDVoM6CaT" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+  <link rel="stylesheet" type="text/css" href="css/slick.css">
+  <link rel="stylesheet" type="text/css" href="css/slick-theme.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="icon" href="images/veom-favicon.png" sizes="192x192">
+  <link rel="stylesheet" type="text/css" href="css/responsive.css">
+
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42880288-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-42880288-1');
+  </script>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7VLNHGZ3F6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-7VLNHGZ3F6');
+  </script>
+
+  <!-- Google Verification -->
+  <meta name="google-site-verification" content="google-site-verification=maZMH4dSLYLlyc3mOdbksb-TBmJnvlXigTmndQ0z4_k">
+
+</head>
+<body>
+
+  <header class="sticky-top">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <div class="container">
+        <a class="navbar-brand" href="index.php">
+          <img src="images/veom-logo.png" alt="logo" class="img-fluid">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav m-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link"  href="index.php">Home</a>
+            </li>
+            <li class="nav-item dropdown_list">
+              <a class="nav-link" href="about-us.php">
+                ABOUT US <!-- <i class="fa fa-angle-down"></i> -->
+              </a>
+              <!-- <ul class="dropdown_menu_list">
+                <li><a href="#!">About-1</a></li>
+                <li><a href="#!">About-1</a></li>
+                <li><a href="#!">About-1</a></li>
+              </ul> -->
+            </li>
+            <li class="nav-item dropdown_list">
+              <a class="nav-link" href="services.php">
+                Services <i class="fa fa-angle-down"></i>
+              </a>
+              <ul class="dropdown_menu_list service_list">
+                <li><a href="digital-marketing.php">Digital Marketing</a></li>
+                <li><a href="website-designing.php">Website Designing</a></li>
+                <li><a href="website-development.php">Website Development</a></li>
+                <li><a href="logo-designing.php">Logo Designing</a></li>
+                <li><a href="app-store-optimization.php">ASO</a></li>
+
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="career.php">CAREER</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact.php">CONTACT</a>
+            </li>
+          </ul>
+          <div class="right_button">
+            <div class="button-parent">
+              <a href="about-us.php#partners">PARTNER AGENCIES</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <!-- ================================ --><!--========= slick slider =========-->
+<section class="home_slider_secc">
+  <div class="slide_box">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6">
+          <div class="content_block">
+            <div class="h_block">
+              <span class="fast_growing">A FAST GROWING</span>
+              <h1 class="heading"><span class="h1_span">DIGITAL MARKETING</span><br><span class="h2_span">AGENCY</span></h1>
+              <div class="content_p">
+                <p>Digital Marketing is the future of tens of thousands of websites created each day. Take it from the Digital Leaders. As an ROI-focused Digtal Marketing company in US, we aim to help your website be distinct from a sea of competitors.</p>
+              </div>
+              <div class="button_similer cont_button">
+                <a href="digital-marketing.php">START A PROJECT</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="banner-img">
+          <img src="images/girl banner.png" alt="banner img" class="img-fluid animated-img">
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide_box">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6">
+          <div class="content_block">
+            <div class="h_block">
+              <span class="fast_growing">A FAST GROWING</span>
+              <h1 class="heading"><span class="h1_span">WEB DEVELOPMENT</span><br><span class="h2_span">AGENCY</span></h1>
+              <div class="content_p">
+                <p>Our development team is highly specialized in building customized and unique websites. By focusing on scalability, responsiveness, and functionality, we bring innovative ideas to execute high-level website development tasks.</p>
+              </div>
+              <div class="button_similer cont_button">
+                <a href="digital-marketing.php">START A PROJECT</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="banner-img">
+          <img src="images/website_development_img.jpg" alt="banner img" class="img-fluid animated-img">
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="slide_box">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6">
+          <div class="content_block">
+            <div class="h_block">
+              <span class="fast_growing">A FAST GROWING</span>
+              <h1 class="heading"><span class="h1_span">WEBSITE DESIGNING</span><br><span class="h2_span">AGENCY</span></h1>
+              <div class="content_p">
+                <p>A website acts as the face of your business on the internet, make sure your site presents your business in the best light...we are here to help...!!! Our professional website designers assure to deliver a performance-oriented website </p>
+              </div>
+              <div class="button_similer cont_button">
+                <a href="digital-marketing.php">START A PROJECT</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="banner-img">
+          <img src="images/web_design_img.jpg" alt="banner img" class="img-fluid animated-img">
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- ========== our services ========== -->
+<section class="services_sec home-sec-2 pbt-60">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="heading-top">
+          <span class="chg1">Services We Deliver</span>
+          <h2 class="chg2">Our Services</h2>
+        </div>
+        <div class="services-outer-box">
+          <div class="services-inner-box">
+            <div class="service-item" data-aos="zoom-in" data-aos-duration="4000"  data-aos-offset="200" >
+              <div class="img-ser">
+                <img src="images/digital marketing service.png" alt="digital img" class="img-fluid">
+              </div>
+              <div class="content_ser">
+                <div class="ser_head">
+                  <h3>Digital Marketing</h3>
+                </div>
+                <div class="ser-para">
+                  <p>Digital marketing has come of age and is featured prominently in the Business Development plans of all businesses, be-it online or storefront.</p>
+                </div>
+                <div class="ser_button">
+                  <a href="digital-marketing.php">VIEW MORE</a>
+                </div>
+              </div>
+            </div>
+            <!-- ================================== -->
+            <div class="service-item" data-aos="zoom-in-up" data-aos-duration="4000"  data-aos-offset="200" >
+              <div class="img-ser">
+                <img src="images/website designing services.png" alt="web designing" class="img-fluid" class="img-fluid">
+              </div>
+              <div class="content_ser">
+                <div class="ser_head">
+                  <h3>Website Designing</h3>
+                </div>
+                <div class="ser-para">
+                  <p>A website acts as the face of your business on the internet, make sure your site presents your business in the best light...we are here to help...!!!</p>
+                </div>
+                <div class="ser_button">
+                  <a href="website-designing.php">VIEW MORE</a>
+                </div>
+              </div>
+            </div>
+            <!-- ================================== -->
+            <div class="service-item" data-aos="zoom-in" data-aos-duration="4000"  data-aos-offset="200">
+              <div class="img-ser">
+                <img src="images/website Develoment services.png" alt="web development" class="img-fluid">
+              </div>
+              <div class="content_ser">
+                <div class="ser_head">
+                  <h3>Website Development</h3>
+                </div>
+                <div class="ser-para">
+                  <p>From CMS based website to ecommerce portals, we make sure your business gets its best employee ever that works 24x7...through us.</p>
+                </div>
+                <div class="ser_button">
+                  <a href="website-development.php">VIEW MORE</a>
+                </div>
+              </div>
+            </div>
+            <!-- ================================== -->
+            <div class="service-item" data-aos="zoom-in-down" data-aos-duration="4000"  data-aos-offset="200">
+              <div class="img-ser">
+                <img src="images/logo design.png" alt="logo design" class="img-fluid">
+              </div>
+              <div class="content_ser">
+                <div class="ser_head">
+                  <h3>Logo Designing</h3>
+                </div>
+                <div class="ser-para">
+                  <p>An impressive logo or creatively designed marketing material can make a huge difference in how your audience perceives you.</p>
+                </div>
+                <div class="ser_button">
+                  <a href="#!">VIEW MORE</a>
+                </div>
+              </div>
+            </div>
+            <!-- ================================== -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- =========================================== -->
+<section class="projects_sec">
+  <div class="container">
+   <div class="row justify-content-center text-center">
+    <div class="col-md-3 col-6">
+     <span id="count1" class="num-count text-white">507</span>
+     <h6>PROJECT FINISHED</h6>
+   </div>
+   <div class="col-md-3 col-6">
+    <div class="plus_counter"><h3 id="count2" class="num-count text-white">12 </h3><span class="plus_sign">+</span></div>
+     <h6>YEARS EXPERIENCE</h6>
+   </div>
+   <div class="col-md-3 col-6">
+     <span id="count3" class="num-count text-white">212</span>
+     <h6>HAPPY CLIENTS</h6>
+   </div>
+   <div class="col-md-3 col-6">
+    <span id="count4" class="num-count text-white">4222</span>
+    <h6>RECOGNITION</h6>
+  </div>
+</div>
+</div>
+</section>
+
+<!-- ================================ -->
+<section class="our_process_sec pbt-60">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-sm-12">
+       <div class="content-img">
+        <img src="images/content section image.png" alt="content img" class="img-fluid">
+      </div>
+    </div>
+    <div class="col-md-6 col-sm-12">
+      <div class="content_block" data-aos="zoom-in-right" data-aos-duration="4000"  data-aos-offset="200">
+        <div class="h_block">
+          <span class="fast_growing">Discover Our Process</span>
+          <h2 class="heading text-black">Win The Battle Of Search Results</h2>
+          <div class="content_p">
+            <p>Veom Infotech thrive on what’s trending on World Wide Web. We study competitors and technical aspects of a website to find out the best set of keywords and create a custom strategy based on all available opportunities.</p>
+          </div>
+          <div class="process">
+            <h3 class="process_1">Site Health/Audit And Competitor Analysis Report</h3>
+            <p>We run the website against some of the key metrics that give us a clear picture of where and how is it lacking against the competition.</p>
+            <h3 class="process_1">Keyword Suggestions And Indexed Pages Report</h3>
+            <p>We run the website against some of the key metrics that give us a clear picture of where and how is it lacking against the competition.</p>
+          </div>
+          <div class="button_similer cont_button">
+            <a href="digital-marketing.php">DISCOVER MORE</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+<!-- ==================== Instagram Feeds ================== -->
+
+<section class="pb-5">
+   <div class="container">
+       <div class="elfsight-app-8be3bbc0-5218-44cc-a1ac-84ddb75cfcaf"></div>
+   </div>
+</section>
+
+<!-- ==================== Home cta ================== -->
+<section class="home_cta pbt-60">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="cta_content">
+          <p class="text-white">Our 12 years of excellence in delivering result-driven <br>solutions are ready to work for you.</p>
+          <div class="contact_button mt-4">
+            <a href="contact.php">CONTACT US TODAY!</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+     <footer class="pbt-60">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3 col-sm-12">
+           <div class="footer-content">
+            <a href="https://veominfotech.com/" class="footer-img">
+              <img src="images/veom-logo.png" alt="logo" class="img-fluid">
+            </a>
+            <p>Veom Infotech, founded in 2011 in India, specializes in delivering result-driven SEO, online growth, and website design and development services.</p>
+            <a href="/cdn-cgi/l/email-protection#e18993a197848e8c888f878e95848289cf828e8c" class="contact-info mb-2"><i class="fa fa-envelope" aria-hidden="true"></i> <span class="__cf_email__" data-cfemail="e48c96a492818b898d8a828b9081878cca878b89">[email&#160;protected]</span></a>
+            <a href="tel: +1(514) 994 4637" class="contact-info mb-2"><i class="fa fa-phone" aria-hidden="true"></i> +1(514) 994-4637, </a> <a href="tel: 9811745117" class="contact-info"> 981-174-5117</a>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-12">
+          <div class="footer-content">
+           <h3>Quick Links</h3>
+           <ul class="footer-menu">
+            <li><a href="index.php"><span><i class="fa fa-caret-right" aria-hidden="true"></i></span> Home</a></li>
+            <li><a href="about-us.php"><span><i class="fa fa-caret-right" aria-hidden="true"></i></span> About Us</a></li>
+            <li><a href="contact.php"><span><i class="fa fa-caret-right" aria-hidden="true"></i></span> Contact Us</a></li>
+            <li><a href="career.php"><span><i class="fa fa-caret-right" aria-hidden="true"></i></span> Career</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-12">
+        <div class="footer-content">
+         <h3>Our Services</h3>
+         <ul class="footer-menu">
+          <li><a href="digital-marketing.php"><span><i class="fa fa-caret-right" aria-hidden="true"></i></span> Digital Marketing</a></li>
+          <li><a href="website-designing.php"><span><i class="fa fa-caret-right" aria-hidden="true"></i></span> Website Designing</a></li>
+          <li><a href="website-development.php"><span><i class="fa fa-caret-right" aria-hidden="true"></i></span> Website Development</a></li>
+          <li><a href="logo-designing.php"><span><i class="fa fa-caret-right" aria-hidden="true"></i></span> Logo Designing</a></li>
+          <li><a href="app-store-optimization.php"><span><i class="fa fa-caret-right" aria-hidden="true"></i></span> App Store Optimization</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="col-md-3 col-sm-12">
+      <div class="footer-content branch_address">
+       <h3>Our Locations : </h3>
+       <span>Uniq Creative :- </span>
+       <p>Office 6C, Borough Yard, The Borough, Wedmore, Somerset</p>
+       <span>Powered By Belltech :- </span>
+       <p>11985 Indian Rocks Road Largo, FL 33774</p>
+       <p>B-7, First Floor, Sector 64, Noida, Uttar Pradesh 201301, <b>India</b></p>
+       <div class="input-group mb-3">
+        <!-- <input type="text" class="form-control" placeholder="Email Address" aria-label="Recipient's username">
+        <button class="btn email_btn" type="button "><i class="fa fa-chevron-right" aria-hidden="true"></i></button> -->
+      </div>
+      <ul class="social-icons">
+        <li><a href="https://www.linkedin.com/company/veom-infotech-private-limited-/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+        <li><a href="https://twitter.com/VeomInfotech" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.facebook.com/veominfotech" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.instagram.com/veominfotech/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+</div>
+</footer>
+<section class="bottom-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <p class="text-white mb-0 text-center">COPYRIGHT 2023-2024 VEOM INFOTECH PVT. LTD. ALL RIGHTS RESERVED.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+<!-- Option 1: Bootstrap Bundle with Popper -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<script src="js/slick.min.js"></script>
+<script src="js/custom.js"></script>
+</html>
